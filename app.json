@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Subscription Tracker - SubTrack",
+    "slug": "subtrack",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.astroidapps.subtrack",
+      "versionCode": 1
+    },
+    "extra": {
+      "appName": "SubTrack"
+    }
+  }
+}
